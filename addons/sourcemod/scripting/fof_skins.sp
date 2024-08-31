@@ -1,21 +1,10 @@
 /**
  * vim: set ts=4 :
  * =============================================================================
- * en:
- * This plugin is a modification of the "fashion_fof" plugin where the clothes, hats and masks were removed and the models were replaced by custom models available on the website
- * https://gamebanana.com/
- * and other models were taken from the garry's mod workshop and converted to HL2DM!
- * 
- * Credits and copyright for the "fashion_fof" plugin and all other code by: CrimsonTautology
- * Credits for the modification: Paralhama 'https://steamcommunity.com/id/paralhama/'
- * =============================================================================
- * pt-br
- * Este plugin é uma modificação do plugin 'fashion_fof' onde as roupas, chapéus e máscaras foram removidos e os modelos foram substituídos por modelos personalizados disponíveis no site 
- * https://gamebanana.com/
- * e outros modelos foram retirados da oficina de mod de Garry e convertidos para HL2DM
- * 
- * Créditos e direitos autorais para o plugin "fashion_fof" e todos os outros códigos por: CrimsonTautology
- * Créditos pela modificação: Paralhama 'https://steamcommunity.com/id/paralhama/'
+ * This plugin is a modification of the "fashion_fof"
+ * https://github.com/CrimsonTautology/sm-fashion-fof
+ * The models on this plugin come from gamebanana.com and Gmod workshop and converted to Fistful of Frags
+ * Credits for the "fashion_fof" plugin and all other code by: CrimsonTautology
  * =============================================================================
  */
 
@@ -34,7 +23,7 @@ public Plugin myinfo =
 {
     name = PLUGIN_NAME,
     author = "Paralhama",
-    description = "Allows players to choose custom skins. ",
+    description = "Allows players to choose custom skins.",
     version = PLUGIN_VERSION,
     url = "No website, for now..."
 };
