@@ -6,4 +6,4 @@
 
 ## The models on this plugin come from gamebanana.com and Gmod workshop and converted to Fistful of Frags
 
-# Credits for the "fashion_fof" plugin and all other code by: CrimsonTautology
+## Credits for the "fashion_fof" plugin and all other code by: CrimsonTautology
